@@ -199,7 +199,3 @@ This project is created for educational purposes to demonstrate Low-Level Design
 This is an educational project. Feel free to fork and extend it for learning purposes.
 
 ---
-
-**Author**: [Your Name]  
-**Version**: 1.0  
-**Last Updated**: 2024
